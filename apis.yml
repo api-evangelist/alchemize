@@ -43,7 +43,7 @@ x-tier-reason: portfolio-lead
 x-yc-batch: Spring 2026
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-10-06'
 tags:
 - Company
 - Customs Brokerage
@@ -68,6 +68,8 @@ apis:
   - type: Website
     url: https://tryalchemize.com
 common:
+- url: https://tryalchemize.com/blog/
+  type: Blog
 - type: DomainSecurity
   url: security/alchemize-domain-security.yml
 - type: Website
